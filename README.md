@@ -1,7 +1,7 @@
 # aMITO_MiMB
 
 
-This repository contains material and instructions for the tutorial detailed in the article 'Assembly of ancient mitochondrial genomes without a closely related reference sequence' by Christoph Hahn in 'Ancient DNA: Methods and Protocols, Second Edition, edited by Shapiro B., Hofreiter M., Rodrigues Soares A.E., Heintzman P.D., Paijmans L.A., and Barlow A.'
+This repository contains material and instructions for the tutorial detailed in the article __Assembly of ancient mitochondrial genomes without a closely related reference sequence__ by Christoph Hahn in __Ancient DNA: Methods and Protocols, Second Edition__, edited by __Shapiro B., Hofreiter M., Rodrigues Soares A.E., Heintzman P.D., Paijmans L.A., and Barlow A.__
 
 If you want to run through the tutorial, download this repository, e.g. via:
 ```bash
