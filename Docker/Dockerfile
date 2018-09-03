@@ -1,4 +1,4 @@
-FROM chrishah/mitobim:latest
+FROM chrishah/mitobim:v.1.9.1
 
 MAINTAINER Christoph Hahn <christoph.hahn@uni-graz.at>
 
