@@ -3,6 +3,9 @@
 
 This repository contains material and instructions for the tutorial detailed in the article __Assembly of ancient mitochondrial genomes without a closely related reference sequence__ by Christoph Hahn in __Ancient DNA: Methods and Protocols, Second Edition__, edited by __Shapiro B., Hofreiter M., Rodrigues Soares A.E., Heintzman P.D., Paijmans L.A., and Barlow A.__
 
+Repository is permanently archived at Zenodo: [![DOI](https://zenodo.org/badge/146860798.svg)](https://zenodo.org/badge/latestdoi/146860798) 
+
+
 If you want to run through the tutorial, download this repository, e.g. via:
 ```bash
 git clone --recursive https://github.com/chrishah/aMITO_MiMB.git
@@ -10,7 +13,7 @@ git clone --recursive https://github.com/chrishah/aMITO_MiMB.git
 
 Then, change your present working directory to the directory `tutorial/` in the repo:
 ```bash
-cd tutorial/
+cd aMITO_MiMB/tutorial/
 ```
 
 The `tutorial/` directory contains a directory `mt_refs` that contains the reference data in fasta format needed for the tutorial. Check if everything's there:
